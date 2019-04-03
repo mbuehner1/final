@@ -29,3 +29,7 @@
   border-radius: 3px;
   background: teal;
 }
+.pad{
+  padding: 70px;
+  border: 1px solid #4CAF50;
+}
